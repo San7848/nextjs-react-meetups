@@ -14,5 +14,6 @@ A full-stack Next.js application to create, browse, and manage developer meetups
 - SEO with Next Head
 - MongoDB integration
 - Server-side rendering
-
+## Live URL
+https://nextjs-react-meetups-ej1uh7t3w-san7848s-projects.vercel.app/
 

@@ -15,5 +15,4 @@ A full-stack Next.js application to create, browse, and manage developer meetups
 - MongoDB integration
 - Server-side rendering
 
-## Live Demo
-https://your-vercel-url.vercel.app
+
